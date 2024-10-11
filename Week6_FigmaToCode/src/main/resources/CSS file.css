@@ -1,5 +1,5 @@
 .menu-bar {
-    -fx-background-color: #8B4513;
+    -fx-background-color: brown;
 }
 
 .menu {
@@ -12,7 +12,7 @@
 }
 
 .column-header {
-    -fx-background-color: #8B4513;
+    -fx-background-color: brown;
     -fx-text-fill: white;
 }
 
